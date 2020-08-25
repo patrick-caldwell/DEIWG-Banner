@@ -4,4 +4,5 @@ A local prototype of the original banner image for the School of Informatics and
 
 
 Banner: https://patrick-caldwell.github.io/DEIWG-Banner/
+
 DEI Working Group Site: https://inclusion.soic.iupui.edu/
